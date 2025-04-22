@@ -60,7 +60,7 @@ Figure 1: Average training vs. validation accuracy.
 Figure 2: Training vs. validation loss.
 
 Figure 3: Total training time across all models.
-# note: The figures in final_evaluation_comparison_figures.ipynb (Figures 1–3) are generated using manually entered summary statistics (e.g., accuracy, loss, standard deviation, training time) collected from earlier model runs. These values are not computed dynamically in the notebook. Please refer to the corresponding training logs or evaluation outputs in each model folder for original values.To reproduce the plots: run final_evaluation_comparison_figures.ipynb after ensuring the pre-filled metrics in the notebook reflect the results from each model runs.
+Note: The figures in final_evaluation_comparison_figures.ipynb (Figures 1–3) are generated using manually entered summary statistics (e.g., accuracy, loss, standard deviation, training time) collected from earlier model runs. These values are not computed dynamically in the notebook. Please refer to the corresponding training logs or evaluation outputs in each model folder for original values.To reproduce the plots: run final_evaluation_comparison_figures.ipynb after ensuring the pre-filled metrics in the notebook reflect the results from each model runs.
 
 5: Test on unseen data
 Run test_unseen_evaluation.ipynb to evaluate each model's performance on the test set.
