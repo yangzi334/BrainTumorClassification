@@ -55,6 +55,7 @@ Run Self_learning_baseline.ipynb for SimCLR.
 4: Compare results across all models 
 
 Run final_evaluation_comparison_figures.ipynb to generate key comparison figures:
+
 Figure 1: Average training vs. validation accuracy.
 
 Figure 2: Training vs. validation loss.
