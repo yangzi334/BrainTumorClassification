@@ -1,20 +1,14 @@
-# Core libraries
-numpy
-pandas
-matplotlib
-seaborn
-Pillow
-tqdm
-joblib
-scikit-learn
-scikit-image
-
-# PyTorch and torchvision
-torch
-torchvision
-
-# Jupyter / notebook display (optional, if running in Jupyter)
-ipython
-
-# Optional: used for display and plotting in notebooks
-ipykernel
+Torch==2.6.0+cu118 
+torchvision==0.21.0+cu118
+Python==3.9.21
+scikit-learn==1.6.1
+numpy==2.0.2
+matplotlib==3.9.4
+scikit-image==0.24.0
+joblib==1.4.2
+seaborn==0.13.2
+json5== 0.10.0
+datasets==3.5.1
+pillow==11.1.0
+tqdm==4.67.1
+transformers==4.51.3
