@@ -3,7 +3,10 @@
 This repository contains data and code for JMIR paper:
 # Trade-off Analysis of Classical and Deep Learning Models for Robust Brain Tumor Detection 
 
-##Project Structure
+## Project Structure
+#  We first trained four models on the main dataset and evaluated their robustness using unseen test samples from the main dataset. All .ipynb python programs without the '_extension' corresponded to this main dataset.
+# To assess the transferability and generalization, we retrained the same four models on the external dataset from a different source, using the same paramter settings, augmentation strategies, and training pipelines as those usdef for the main dataset.All .ipynb python programs with the '_extension' associated with the external dataset. 
+
 
 -preprocessing.ipynb: Code for data preprocessing.
 This notebook checks COCO format annotation files under the training, validation, and test folders. It fixes mismatched annotation IDs in the training folder. Validation and test annotation files are correctly aligned with image IDs.
