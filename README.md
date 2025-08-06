@@ -8,6 +8,7 @@ This repository contains data and code for JMIR paper:
 - 2: Results - Training behavior and Convergence analysis, Train and Validation data performance, Generalization test on unseen data within and across domains, Visual interpretation via Saliency Map. 
 - 3: Disuccions - Priniciple findings, Limitatons, etc. 
 
+The project's details can be found in the paper.
 
 ## How to run
 1: Install dependencies
