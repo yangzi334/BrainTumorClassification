@@ -46,7 +46,7 @@ Run test_unseen_across_domains.ipynb to evaluate all models on the cross-dataset
 
 
 ## Data availability
-All fine-tuned model files and multiple appendixes and the raw brain tumor image datasets used in this study are openly available on Zenodo at the following DOI: [https://zenodo.org/records/16944361]
+All fine-tuned model files and multiple appendixes and the raw brain tumor image datasets used in this study are openly available on Zenodo at the following DOI: [https://zenodo.org/records/17066339]
 All code used in this study, along with a detailed README.md file explaining how to reproduce the results, is available on GitHub: 
 https://github.com/yangzi334/BrainTumorClassification
 
