@@ -1,7 +1,7 @@
 # Brain tumor classification 
 
 This repository contains data and code for the JMIR paper:
-# Comparative Analysis of Classical Machine Learning and Deep Learning Models for Robust Brain Tumor Detection: A Benchmarking Study
+# Trade-off Analysis of Classical Machine Leaning and Deep Learning Models for Robust Brain Tumor Detection: A Benchmark Study
 
 #Project Main Structure
 - 1: Methods - Data Description, Data Preprocessing, Model designing, and Model Training.
